@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^0.8.3",
+    "nuxt": "^3.7.3"
+  },
+  "dependencies": {
+    "@jamescoyle/vue-icon": "^0.1.2",
+    "@mdi/js": "^7.2.96",
+    "nuxi": "^3.8.4",
+    "typecheck": "^0.1.2",
+    "vue-facing-decorator": "^3.0.2"
+  }
+}
